@@ -1,8 +1,8 @@
 # Hi there, I'm Nguyen Xuan Truong 👋
-### Fullstack Developer | Node.js & React Expert | DevOps Enthusiast
+### Fullstack Developer | Node.js & React Expert | Problem Solver
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=[your-github-username]&label=Profile%20views&color=2ecc71&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20views&color=2ecc71&style=flat-square" alt="views" />
 </p>
 
 ---
@@ -35,12 +35,25 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ---
 
+
 ## 📫 Connect with me
-[![LinkedIn](https://www.linkedin.com/in/nguy%E1%BB%85n-xu%C3%A2n-tr%C6%B0%E1%BB%9Dng-3aa646251/)
-[![Youtube](https://www.youtube.com/@nguyenxuantruong2291)
-[![Leetcode](https://leetcode.com/u/xuantruong200101/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-xu%C3%A2n-tr%C6%B0%E1%BB%9Dng-3aa646251/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@nguyenxuantruong2291" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://leetcode.com/u/xuantruong200101/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
 *“Turning caffeine into scalable code.”* ☕🚀
