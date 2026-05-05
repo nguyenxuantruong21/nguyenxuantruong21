@@ -1,10 +1,6 @@
 # Hi there, I'm Nguyen Xuan Truong 👋
 ### Fullstack Developer | Node.js & React | Problem Solver
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20views&color=2ecc71&style=flat-square" alt="views" />
-</p>
-
 ---
 
 ## 🚀 About Me
